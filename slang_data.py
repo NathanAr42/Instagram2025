@@ -320,7 +320,7 @@ SLANG_DATA = {
     "mewek": "nangis",
     "gemoy": "lucu",
     "gmoy": "lucu",
-    "jlz": "jelas"
+    "jlz": "jelas",
     "kgn": "kangen",
     "kakkkkk": "kak",
     "rinduuuuuuuuu": "rindu",
