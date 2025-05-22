@@ -14,6 +14,8 @@ SLANG_DATA = {
     "ka": "kak",
     "daah": "dah",
     "aaaaahhhh": "ah",
+    "bumil": "ibu hamil",
+    "kiyowo": "imut",
     "yaa": "ya",
     "smga": "semoga",
     "slalu": "selalu",
