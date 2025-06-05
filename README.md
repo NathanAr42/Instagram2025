@@ -5,3 +5,14 @@
 
 <img src="wordcloud/wordcloud_results/adeline_2022.png" alt="Description" width="500">
 <img src="wordcloud/wordcloud_results/adeline_2023.png" alt="Description" width="500">
+
+<table>
+  <tr>
+    <td><img src="wordcloud/wordcloud_results/adeline_2022.png" alt="Description" width="500"></td>
+    <td><img src="wordcloud/wordcloud_results/adeline_2022.png" alt="Description" width="500"></td>
+  </tr>
+  <tr>
+    <td><img src="wordcloud/wordcloud_results/adeline_2022.png" alt="Description" width="500"></td>
+    <td><img src="wordcloud/wordcloud_results/adeline_2022.png" alt="Description" width="500"></td>
+  </tr>
+</table>
