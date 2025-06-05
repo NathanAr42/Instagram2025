@@ -74,7 +74,7 @@ Tingginya persentase ujaran minta-minta tentunya dipengaruhi oleh konten yang di
 <table>
   <tr>
     <th>@riccienick</th>
-    <th>@adeline</th>
+    <th>@adelinemargaret</th>
   </tr>
   <tr>
     <td></td>
@@ -92,8 +92,8 @@ Tingginya persentase ujaran minta-minta tentunya dipengaruhi oleh konten yang di
 
 <table>
   <tr>
-    <th>@fujian</th>
-    <th>@jerome</th>
+    <th>@fuji-an</th>
+    <th>@jeromepolin</th>
   </tr>
   <tr>
     <td><img src="wordcloud/wordcloud_results/fujian_2022.png" alt="Description" width="500"></td>
@@ -111,8 +111,8 @@ Tingginya persentase ujaran minta-minta tentunya dipengaruhi oleh konten yang di
 
 <table>
   <tr>
-    <th>@nasya</th>
-    <th>@saaih</th>
+    <th>@nasyakailanazifah</th>
+    <th>@saaihalilintar</th>
   </tr>
   <tr>
     <td><img src="wordcloud/wordcloud_results/nasya_2022.png" alt="Description" width="500"></td>
@@ -130,8 +130,8 @@ Tingginya persentase ujaran minta-minta tentunya dipengaruhi oleh konten yang di
 
 <table>
   <tr>
-    <th>@ibenma</th>
-    <th>@samuel</th>
+    <th>@iben_ma</th>
+    <th>@samuelchrist</th>
   </tr>
   <tr>
     <td><img src="wordcloud/wordcloud_results/ibenma_2022.png" alt="Description" width="500"></td>
@@ -150,7 +150,7 @@ Tingginya persentase ujaran minta-minta tentunya dipengaruhi oleh konten yang di
 <table>
   <tr>
     <th>@vilmei</th>
-    <th>@deris</th>
+    <th>@derisnagara</th>
   </tr>
   <tr>
     <td><img src="wordcloud/wordcloud_results/vilmei_2022.png" alt="Description" width="500"></td>
@@ -185,4 +185,5 @@ Tingginya persentase ujaran minta-minta tentunya dipengaruhi oleh konten yang di
   </tr>
 </table>
 
-[Wordcloud](#wordcloud--persentase--ujaran-minta-minta) | [Persentase](#persentase-komentar-positif-dan-negatif--ujaran-minta-minta--wordcloud) | [Ujaran Minta-Minta](#ujaran-minta-minta--persentase--wordcloud)
+
+[Persentase](#persentase-komentar-positif-dan-negatif--ujaran-minta-minta--wordcloud) | [Ujaran Minta-Minta](#ujaran-minta-minta--persentase--wordcloud) | [Wordcloud](#wordcloud--persentase--ujaran-minta-minta) 
