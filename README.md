@@ -171,19 +171,19 @@ Tingginya persentase ujaran minta-minta tentunya dipengaruhi oleh konten yang di
 <table>
   <tr>
     <th>@jennifervalda</th>
-    <th></th>
+    <th> </th>
   </tr>
   <tr>
     <td><img src="wordcloud/wordcloud_results/jennifervalda_2022.png" alt="Description" width="500"></td>
-    <td></td>
+    <td> </td>
   </tr>
   <tr>
     <td><img src="wordcloud/wordcloud_results/jennifervalda_2023.png" alt="Description" width="500"></td>
-    <td></td>
+    <td> </td>
   </tr>
   <tr>
     <td><img src="wordcloud/wordcloud_results/jennifervalda_2024.png" alt="Description" width="500"></td>
-    <td></td>
+    <td> </td>
   </tr>
 </table>
 
